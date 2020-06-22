@@ -10,4 +10,4 @@ Ini hanyalah tokenizer dan parser sederhana yang menerima inputan syntax. Lalu d
 Kode lengkap disimpan di *app/utils/lexer.rb*
 
 ## Test
-rails test test/lex_test.rb test/controllers/home_controller_test.rb
+    rails test test/lex_test.rb test/controllers/home_controller_test.rb
